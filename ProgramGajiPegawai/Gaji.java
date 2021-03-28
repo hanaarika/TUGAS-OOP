@@ -2,7 +2,7 @@ package ProgramGajiPegawai;
 
 public class Gaji extends DataPegawai{
     public static void HitungGaji() throws Exception {
-        //instansiasi objek dari class Gaji
+        //instansiasi objek dari class DataPegawai
         DataPegawai data = new DataPegawai();
         //variabel lokal
         int gaji, tunjangan, UangMakan, GajiTotal;
